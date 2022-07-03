@@ -1,2 +1,2 @@
 def feature6():
-    pass
+    print("feature6")
