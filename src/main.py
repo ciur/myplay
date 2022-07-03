@@ -3,7 +3,7 @@ def feature1():
 
 
 def feature2():
-    print("feature2")
+    print("feature2 + update2")
 
 
 print("Hello!")
